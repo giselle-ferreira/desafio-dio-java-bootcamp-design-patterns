@@ -6,6 +6,10 @@ Repositório criado para envio de desafio de API criada exemplificando o o use d
 ## Tecnologias e Ferramentas
 - Java
 - Spring Boot
+- Design Patterns:
+  - Singleton
+  - Strategy
+  - Facade
 - Swagger
 - H2
 - IntelliJ
